@@ -24,7 +24,7 @@ void testPairToNumber(
     std::cout << "Got pair number " << pairNumber << std::endl;
     assert(pairNumber == expectedPairNumber);
 }
-void  ToString()                          // Reference manual(New feature request)
+void  ToString()                          
 {
     //using namespace TelCoColorCoder;
     int numberOfMinorColors;
