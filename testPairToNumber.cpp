@@ -1,3 +1,5 @@
+using namespace TelCoColorCoder;
+
 void testPairToNumber(
     TelCoColorCoder::MajorColor major,
     TelCoColorCoder::MinorColor minor,
