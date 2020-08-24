@@ -1,6 +1,6 @@
 #include <iostream>
 #include <assert.h>    
-
+using namespace TelCoColorCoder;
 
 int main() {
     testNumberToPair(4, TelCoColorCoder::WHITE, TelCoColorCoder::BROWN);
