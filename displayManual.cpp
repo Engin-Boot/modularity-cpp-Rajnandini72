@@ -1,3 +1,8 @@
+#include <iostream>
+#include <assert.h>    
+
+using namespace TelCoColorCoder;
+
 void  displayManual()
 {
     int numberOfMinorColors;
