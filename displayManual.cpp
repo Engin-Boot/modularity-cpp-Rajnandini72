@@ -1,7 +1,7 @@
 #include <iostream>
 #include <assert.h>    
 
-using namespace TelCoColorCoder;
+//using namespace TelCoColorCoder;
 
 void  displayManual()
 {
