@@ -1,10 +1,11 @@
 #include <iostream>
 #include <assert.h>    
 
-using namespace TelCoColorCoder;
+//using namespace TelCoColorCoder;
 
 void  displayManual()
 {
+    using namespace TelCoColorCoder;
     int numberOfMinorColors;
     int numberOfMajorColors;
     int pairNumber;
