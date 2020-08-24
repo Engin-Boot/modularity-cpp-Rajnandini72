@@ -1,9 +1,9 @@
 #include <iostream>
 #include <assert.h>    
-using namespace TelCoColorCoder;
+//using namespace TelCoColorCoder;
 
 int main() {
-    //using namespace TelCoColorCoder;
+    using namespace TelCoColorCoder;
     testNumberToPair(4, TelCoColorCoder::WHITE, TelCoColorCoder::BROWN);
     testNumberToPair(5, TelCoColorCoder::WHITE, TelCoColorCoder::SLATE);
 
