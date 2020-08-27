@@ -26,9 +26,9 @@ void testPairToNumber(
 }
 void  ToString()                          
 {
-    //using namespace TelCoColorCoder;
-    int numberOfMinorColors;
-    int numberOfMajorColors;
+    using namespace TelCoColorCoder;
+    //int numberOfMinorColors;
+    //int numberOfMajorColors;
     int pairNumber;
     int totalPairs=numberOfMinorColors*numberOfMajorColors;
     std::cout << std::endl;;
